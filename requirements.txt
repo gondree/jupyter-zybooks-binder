@@ -1,15 +1,2 @@
-beautifulsoup4
-Pygments==2.6.1
-scipy
 numpy
-pandas
-pycrypto
 matplotlib
-pycodestyle
-pytest
-scikit-learn
-statsmodels
-sympy
-tensorflow-cpu
-xlrd
-xmltodict==0.12.0
